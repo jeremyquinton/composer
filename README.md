@@ -1,17 +1,17 @@
-= DESCRIPTION:
+DESCRIPTION:
 
 A simple chef recipe to install composer
 
-= REQUIREMENTS:
+REQUIREMENTS:
 
 php and curl need to be installed before this recipe
 
-= ATTRIBUTES:
+ATTRIBUTES:
 
 Where composer should install
 ['composer']['install_dir'] 
 
-= USAGE:
+USAGE:
 
-Just inclde the default recipe
+Just include the default recipe
 
