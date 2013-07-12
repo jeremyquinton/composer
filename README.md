@@ -1,12 +1,12 @@
 Description
 ===========
 
-A simple chef recipe to install composer
+A simple chef recipe to install composer for your php projects
 
 Requirements
 ============ 
 
-php and curl need to be installed before this recipe
+PHP and curl need to be installed before this recipe
 
 Attributes
 ============
