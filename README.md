@@ -15,9 +15,9 @@ Where composer should install
 default['composer']['install_dir'] = "/usr/sbin"
 
 The user to install composer as
-default['composer']['user'] = "root" #
+default['composer']['user'] = "root"
 
-USAGE:
+Usage
 ======
 
 Just include the default recipe
@@ -26,3 +26,7 @@ Just include the default recipe
         "recipe[composer]"
 ]
 
+Note
+====
+
+I wrote the recipe in record time so please do a pull request on it if you can make it better
