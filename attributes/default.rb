@@ -13,5 +13,5 @@ else
   set['composer']['install_dir']  = "/usr/sbin/"
 end
 
-set ['composer']['user'] = "root"
+set['composer']['user'] = "root"
 
