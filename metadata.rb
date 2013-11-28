@@ -1,5 +1,5 @@
-maintainer       "YOUR_COMPANY_NAME"
-maintainer_email "YOUR_EMAIL"
+maintainer       "Jeremy Quinton"
+maintainer_email "jeremyquinton@gmail.com"
 license          "All rights reserved"
 description      "Installs composer executable"
 version          "0.0.1"
